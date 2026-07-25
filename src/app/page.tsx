@@ -4,6 +4,7 @@ import { PricingLedger } from "@/components/home/PricingLedger";
 import { SessionClock } from "@/components/home/SessionClock";
 import { VenueLanes } from "@/components/home/VenueLanes";
 import { CompareTable } from "@/components/home/CompareTable";
+import { ChainBand } from "@/components/home/ChainBand";
 import { Footer } from "@/components/Footer";
 
 export default function Home() {
@@ -18,6 +19,7 @@ export default function Home() {
           <VenueLanes />
           <CompareTable />
         </div>
+        <ChainBand />
       </main>
       <Footer />
     </div>
