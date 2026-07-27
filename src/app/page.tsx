@@ -6,6 +6,7 @@ import { VenueLanes } from "@/components/home/VenueLanes";
 import { CompareTable } from "@/components/home/CompareTable";
 import { ChainBand } from "@/components/home/ChainBand";
 import { PromiseGrid } from "@/components/home/PromiseGrid";
+import { Questions } from "@/components/home/Questions";
 import { Footer } from "@/components/Footer";
 
 export default function Home() {
@@ -23,6 +24,7 @@ export default function Home() {
         <ChainBand />
         <div className="page">
           <PromiseGrid />
+          <Questions />
         </div>
       </main>
       <Footer />
