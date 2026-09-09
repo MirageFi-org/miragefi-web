@@ -48,7 +48,7 @@ export function Hero() {
               aria-hidden="true"
               className="absolute -inset-x-10 -inset-y-12 -z-10 rounded-[64px] bg-mf-cloud/80 blur-3xl"
             />
-            <p className="label">The RWA swap venue · Robinhood Chain</p>
+            <p className="label">$MIRAGEFI: 0x6d39f105197437fbee4f284456a626e0c065f42e</p>
             <h1 className="mt-6 max-w-[12ch] font-heading text-[54px] leading-[0.96] text-mf-ink md:text-[84px] lg:text-[104px]">
               Tokenized stocks,{" "}
               <em className="font-heading italic text-mf-blue-deep">priced like the real thing.</em>
