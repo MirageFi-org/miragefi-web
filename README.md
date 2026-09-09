@@ -33,7 +33,4 @@
 
 ## Related
 
-- Contracts: `contracts/README.md`
-- Documentation: `docs/` (published with GitBook)
-- Concept brief: `CONCEPT_BRIEF.md`
-- Follow [@MirageFi](https://x.com/MirageFi)
+- Follow [@MirageFi](https://x.com/MirageFiorg)

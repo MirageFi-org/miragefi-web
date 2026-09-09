@@ -4,7 +4,7 @@ export const SITE = {
   domain: "miragefi.org",
   url: "https://miragefi.org",
   xHandle: "@MirageFi",
-  xUrl: "https://x.com/MirageFi",
+  xUrl: "https://x.com/MirageFiorg",
   githubUrl: "https://github.com/MirageFi-org",
   contactEmail: "hello@miragefi.org",
   chainId: 4663,
