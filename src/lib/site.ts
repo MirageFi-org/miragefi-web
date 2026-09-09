@@ -21,3 +21,8 @@ export const NAV_LINKS = [
   { no: "06", label: "Promises", href: "#ledger" },
   { no: "07", label: "Questions", href: "#faq" },
 ] as const;
+
+/** The few chapters worth a place in the header; the rest are reachable from the footer. */
+export const HEADER_LINKS = NAV_LINKS.filter((l) =>
+  ["Pricing", "Sessions", "Venue", "Questions"].includes(l.label)
+);
